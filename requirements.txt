@@ -8,3 +8,8 @@ transformers
 torch
 pandas
 matplotlib
+requests
+numpy
+matplotlibspeechrecognition
+pyttsx3
+python-dotenv
