@@ -1,0 +1,10 @@
+google-generativeai
+langgraph
+deep_translator
+plotly
+gradio
+openai
+transformers
+torch
+pandas
+matplotlib
